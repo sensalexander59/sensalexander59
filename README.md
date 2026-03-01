@@ -1,4 +1,4 @@
-Hi! 👋 I'm AlexS
+##Hi! 👋 I'm AlexS
 I'm a Computer Engineering student in Paraguay, curious, creative, and always ready to learn new things.
 
 About me
