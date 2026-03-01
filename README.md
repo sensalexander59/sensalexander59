@@ -3,8 +3,7 @@ I'm a second-year computer engineering student. I enjoy developing things for th
 # About me
 - 💻 I love programming and putting what I learn into practice.
 - 🏎 I'm a Formula 1 fan and passionate about everything related to engineering.
-- 🔨 Tools: Git, GitHub, Visual Studio, VS Code
-- 🎭 Interests: Artificial Intelligence, web development, systems
+- 🎭 Interests: RMathematical solving, web development, and logic problems.
 
 # Lenguage Learning
 ![c++](https://camo.githubusercontent.com/900ab31acff96c76caa37b16d5685ff04ef48f52c369b9ef020fb0bc6dc0ca2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465) ![python](https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
